@@ -1,0 +1,8 @@
+name = "cloudflare-lighthouseci"
+main = "src/index.ts"
+compatibility_date = "2023-02-20"
+
+[[ d1_databases ]]
+binding = "<BINDING_NAME>"
+database_name = "<DATABASE_NAME>"
+database_id = "<UUID>"

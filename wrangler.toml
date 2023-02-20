@@ -1,5 +1,6 @@
 name = "cloudflare-lighthouseci"
-main = "src/index.ts"
+main = "src/index.js"
+node_compat = true
 compatibility_date = "2023-02-20"
 
 [[ d1_databases ]]
